@@ -1,0 +1,202 @@
+##EXTM3U
+#PLAYLIST:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",2BEIN SPORTS 1 [SD]
+http://46.105.178.212:8484/hls/ntvspor/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1  Hvec
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:B5/hku8cTCx3n/61677.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1  Hvec
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:AD/1aaG6HxQ1K/61677.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1  Hvec
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:B1/BLvhw3lfL2/61677.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1  Hvec
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:0D/LwRNgFdE6Y/61677.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 (1080p)
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:B5/hku8cTCx3n/61679.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 (1080p)
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:0D/LwRNgFdE6Y/61679.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 (1080p)
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:B1/BLvhw3lfL2/61679.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 (1080p)
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:23/iB3OuVaDYu/61679.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 (1080p) +
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:AD/1aaG6HxQ1K/61678.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 (1080p) +
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:B1/BLvhw3lfL2/61678.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 (1080p) +
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:0D/LwRNgFdE6Y/61678.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 (1080p) +
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:23/iB3OuVaDYu/61678.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 (720p)
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:AD/1aaG6HxQ1K/61681.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 (720p)
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:B1/BLvhw3lfL2/61681.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 (720p)
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:0D/LwRNgFdE6Y/61681.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 (720p)
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:23/iB3OuVaDYu/61681.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 (720p) +
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:B5/hku8cTCx3n/61680.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 (720p) +
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:AD/1aaG6HxQ1K/61680.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 (720p) +
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:B1/BLvhw3lfL2/61680.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 (720p) +
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:0D/LwRNgFdE6Y/61680.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 (720p) +
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:23/iB3OuVaDYu/61680.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 FHD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/79457.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 FHD
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/79457?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 HD
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/79458?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 HD
+http://rv.imax.re:80/5124037472/1572081885/80398?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 HD
+http://185.71.64.167:80/307216011114/307216011114/80398?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/14250?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 SD/HD
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:B5/hku8cTCx3n/61682.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 SD/HD
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:23/iB3OuVaDYu/61682.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 UHD
+http://rv.imax.re:80/5124037472/1572081885/80392?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 UHD
+http://185.71.64.167:80/307216011114/307216011114/80392?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 2 FHD VIP
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:B5/hku8cTCx3n/61683.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 2 FHD VIP
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:AD/1aaG6HxQ1K/61683.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 2 FHD VIP
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:B1/BLvhw3lfL2/61683.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 2 FHD VIP
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:23/iB3OuVaDYu/61683.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 2 H265 LOCAL
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:B1/BLvhw3lfL2/61684.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 2 H265 LOCAL
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:B5/hku8cTCx3n/61684.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 2 H265 LOCAL
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:AD/1aaG6HxQ1K/61684.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 2 HD
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/79460?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 2 HD
+http://rv.imax.re:80/5124037472/1572081885/80397?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 2 HD
+http://185.71.64.167:80/307216011114/307216011114/80397?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 2 UHD
+http://rv.imax.re:80/5124037472/1572081885/80391?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 2 UHD
+http://185.71.64.167:80/307216011114/307216011114/80391?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 3 FHD
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/79461?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 3 FHD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/79461.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 3 FHD VIP
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:23/iB3OuVaDYu/61686.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 3 FHD VIP
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:0D/LwRNgFdE6Y/61686.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 3 FHD VIP
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:B5/hku8cTCx3n/61686.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 3 FHD VIP
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:AD/1aaG6HxQ1K/61686.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 3 HD
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/79462?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 3 HD
+http://rv.imax.re:80/5124037472/1572081885/80396?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 3 HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/79462.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 3 HD
+http://185.71.64.167:80/307216011114/307216011114/80396?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 3 LOCAL
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:23/iB3OuVaDYu/61688.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 3 LOCAL
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:0D/LwRNgFdE6Y/61688.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 3 UHD
+http://rv.imax.re:80/5124037472/1572081885/80390?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 3 UHD
+http://185.71.64.167:80/307216011114/307216011114/80390?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 4 FHD VIP
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:B1/BLvhw3lfL2/61689.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 4 FHD VIP
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:23/iB3OuVaDYu/61689.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 4 FHD VIP
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:0D/LwRNgFdE6Y/61689.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 4 FHD VIP
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:B5/hku8cTCx3n/61689.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 4 FHD VIP
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:AD/1aaG6HxQ1K/61689.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 4 HD
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/79464?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 4 HD
+http://rv.imax.re:80/5124037472/1572081885/80395?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 4 HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/79464.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 4 HD
+http://185.71.64.167:80/307216011114/307216011114/80395?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 4 LOCAL
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:B1/BLvhw3lfL2/61690.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 4 LOCAL
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:B5/hku8cTCx3n/61690.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 4 UHD
+http://rv.imax.re:80/5124037472/1572081885/80389?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 4 UHD
+http://185.71.64.167:80/307216011114/307216011114/80389?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS HABER HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/79412.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS HABER HD
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:B1/BLvhw3lfL2/83931.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS HABER HD
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:AD/1aaG6HxQ1K/83931.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS HABER HD
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:B5/hku8cTCx3n/83931.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS HABER UHD
+http://rv.imax.re:80/5124037472/1572081885/80386?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS MAX 1 LOCAL
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:23/iB3OuVaDYu/61691.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS MAX 1 LOCAL
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:0D/LwRNgFdE6Y/61691.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS MAX 1 LOCAL
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:B5/hku8cTCx3n/61691.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS MAX 2 LOCAL
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:B1/BLvhw3lfL2/61692.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS MAX 2 LOCAL
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:23/iB3OuVaDYu/61692.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS MAX 2 LOCAL
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:0D/LwRNgFdE6Y/61692.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS MAX 2 LOCAL
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:B5/hku8cTCx3n/61692.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS Max 1 VIP
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:23/iB3OuVaDYu/61693.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEINSPORT HD 2 HQ2
+http://bb123.pro:1453/samy19_20/g5woSDuZf6/179?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEINSPORT HD 4 HQ
+http://bb123.pro:1453/samy19_20/g5woSDuZf6/184?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEINSPORT HD 4 HQ2
+http://bb123.pro:1453/samy19_20/g5woSDuZf6/185?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEINSPORT HD 4 LOW
+http://bb123.pro:1453/samy19_20/g5woSDuZf6/186?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEINSPORTS 1 HD (50fps 1920x1080)
+http://rv.imax.re:80/5124037472/1572081885/80393?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEINSPORTS 1 HD (50fps 1920x1080)
+http://185.71.64.167:80/307216011114/307216011114/80393?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEINSPORTS 1 SD
+http://185.71.64.167:80/307216011114/307216011114/80394?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEINSPORTS 1 SD
+http://rv.imax.re:80/5124037472/1572081885/80394?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BeIN Sports MAXX 1 HQ
+http://bb123.pro:1453/samy19_20/g5woSDuZf6/187?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BeIN Sports MAXX 2 HQ
+http://bb123.pro:1453/samy19_20/g5woSDuZf6/188?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BeIN Sports Max 1 4K+
+http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/231?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BeIN Sports Max 2 4K+
+http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/232?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",Bein Sports 1 4K+
+http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/220?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",Bein Sports 1 Mobile
+http://tvog.eu:8080/ibrahim/08.03.2020/4521?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",Bein Sports 1 Sd
+http://tvog.eu:8080/ibrahim/08.03.2020/4740?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",Bein Sports 1 UHD
+http://tvog.eu:8080/ibrahim/08.03.2020/4738?checkedby:hlscat.com
